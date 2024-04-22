@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+name = "analise-apostas-esportivas"
+version = "0.1.0"
+description = "Análise detalhada das partidas do Fluminense no Brasileirão Série A de 2023."
+authors = ["Flávio Henrique Chaves Motta <seuemail@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.3"
+requests = "^2.31.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
