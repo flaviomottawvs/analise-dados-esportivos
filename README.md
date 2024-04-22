@@ -20,7 +20,7 @@ Você precisará de Python 3.x e das seguintes bibliotecas instaladas:
 
 1. Clone este repositório:
 
-git clone https://github.com/seu_usuario/analise-apostas-esportivas.git
+git clone https://github.com/flaviomottawvs/analise-apostas-esportivas.git
 
 2. Navegue até o diretório do projeto:
 
